@@ -1,9 +1,9 @@
 {
     "name": "numeric-values-component",
     "version": "1.0.0",
-    "main": "/lib/com-numeric-values.js",
+    "main": "/lib/radialProgress.js",
     "scripts": [
-        "/lib/com-numeric-values.js"
+        "/lib/radialProgress.js"
     ],
     "ignore": [
         ".git",

@@ -10,7 +10,7 @@
         "type": "git",
         "url": "https://github.com/djandro/numeric-values-component.git"
     },
-    "main": "/lib/com-numeric-values.js",
+    "main": "/lib/radialProgress.js",
 
 
     "dependencies": {

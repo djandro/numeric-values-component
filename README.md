@@ -1,4 +1,4 @@
-Javascript components to enter a numeric values
+Javascript component to enter a numeric values
 =========
 
 
