@@ -2,7 +2,7 @@
     "name": "numeric-values-component",
     "version": "1.0.0",
     "private": true,
-    "description": "A small, free JavaScript library for manipulating documents based on data.",
+    "description": "Javascript component to enter numeric values.",
     "author": {
         "name": "Andraž Hostnik"
     },
