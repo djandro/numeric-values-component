@@ -1,0 +1,22 @@
+{
+    "name": "numeric-values-component",
+    "version": "1.0.0",
+    "main": "/lib/com-numeric-values.js",
+    "scripts": [
+        "/lib/com-numeric-values.js"
+    ],
+    "ignore": [
+        ".git",
+        ".gitignore",
+        "Makefile",
+        "node_modules",
+        "package.json",
+        "test"
+    ],
+
+    "dependencies": {
+        "d3": "~3.4.11"
+    },
+    "devDependencies": {
+    }
+}
